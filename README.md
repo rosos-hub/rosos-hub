@@ -11,7 +11,7 @@ I'm a passionate Software Developer with a focus on .NET ecosystem, building sca
 * **Working on:** [Brief description of a current personal project or an interesting aspect of your professional work]
 * **Contributing to:** [If applicable, mention any open-source projects you contribute to or plan to contribute to]
 -->
-* **Working on:** Implementation of Mobile-First Design for E&C 3D Model Review by leveraging C# and .NET. My publication for E&C small and medium companies, entitled "Engineering and Construction: 3D Model Review and Tagging System" has served as a foundational tool within BIM-driven projects, facilitating collaborative reviews and issue tracking within these complex digital environments without spending too much cost. However, the current desktop/browser-centric nature of the system presents limitations in terms of accessibility and real-time responsiveness, particularly in dynamic construction environments. 
+* **Working on:** Implementation of Mobile-First Design for E&C 3D Model Review by leveraging C# and .NET. My publication for E&C small and medium companies, entitled ["Engineering and Construction: 3D Model Review and Tagging System"](https://doi.org/10.25147/ijcsr.2017.001.1.218) has served as a foundational tool within BIM-driven projects, facilitating collaborative reviews and issue tracking within these complex digital environments without spending too much cost. However, the current desktop/browser-centric nature of the system presents limitations in terms of accessibility and real-time responsiveness, particularly in dynamic construction environments. 
 
 
 ### 🌱 My Tech Stack:
