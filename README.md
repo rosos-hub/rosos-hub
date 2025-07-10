@@ -32,7 +32,7 @@ Creating innovative software solutions that improve data interoperability, infor
 
 I'm always open to collaborating on interesting projects, sharing insights, or just having a chat about tech. Feel free to reach out to me through:
 
-* **LinkedIn:** linkedin.com/in/arbie-rosos/
+* **LinkedIn:** [in/arbie-rosos/](https://www.linkedin.com/in/arbie-rosos/)
 
 ---
 
