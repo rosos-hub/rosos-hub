@@ -36,7 +36,7 @@ I'm always open to collaborating on interesting projects, sharing insights, or j
 
 ---
 
-⭐ **Fun Fact:** I started my career in information technology in a private school with a population of two thousand plus students and I am proud to have landed a job as a full-time programmer when I was still a student and in my third year of college. That was when I saw the importance of having proper software solutions for business operations and processes.
+⭐ **Fun Fact:** I started my career in information technology in a private school with a population of two thousand plus students and I am proud to have landed a job as a full-time programmer when I was still a student and in my third year of college. It help me a lot academically and financially as a student. And, that was when I saw the importance of having proper software solutions for business operations and processes.
 
 ---
 
