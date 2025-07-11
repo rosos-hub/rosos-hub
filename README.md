@@ -18,7 +18,7 @@ I'm a passionate Software Developer with a focus on .NET ecosystem, building sca
 
 Here's a glimpse of the technologies I enjoy working with:
 
-* **Languages:** C#, JavaScript, Python, VB.NET, T-SQL, PL/SQL, HTML, CSS 
+* **Languages:** C#, JavaScript, Python, NodeJS, VB.NET, T-SQL, PL/SQL, HTML, CSS 
 * **Frameworks/Libraries:** .NET Core/.NET, .NET Framework, ASP.NET Core, Dapper 
 * **Frong-End Frameworks:** React, Angular
 * **Databases:** SQL Server, Oracle, MongoDB, MySQL, Redis, SQLite
